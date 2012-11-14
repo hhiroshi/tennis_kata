@@ -1,4 +1,4 @@
-tennis_kata
+Tennis Kata
 ===========
 
-Kata worked with @gquiroz
+Kata worked with @gquiroz in a pair-programming session
